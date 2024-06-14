@@ -1,0 +1,1 @@
+{"8f6eaa6722417174bfb69a873ad1d5e1":{"statistic":{"failed":1,"broken":0,"skipped":0,"passed":0,"unknown":0,"total":1},"items":[{"uid":"c0916dfad22e6896","status":"failed","statusDetails":"Timed out retrying after 4000ms: Expected to find element: `#quantity_6669b14573060`, but never found it.","time":{"start":1718349539140,"stop":1718349563237,"duration":24097}}]}}

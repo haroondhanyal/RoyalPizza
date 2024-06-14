@@ -1,0 +1,15 @@
+{
+    "PizzaSelection":{
+        "Pizza_Selection":"//a[@aria-label='Add to basket: “Pride Pizza Lovers”']",
+        "Pizza_Selection2":"//a[@aria-label='Add to basket: “Mix and Match Saver”']",
+        "PizzaSize":"//input[@id='93411-select_pizza_size-upsize_to_12_inch']",
+        "SelectFirstTenPizza":"//input[@id='93411-select_first_10__pizza-pesto_olives']",
+        "SelectSecondTenPizza":"//input[@id='93411-select_second_10__pizza-tuna']",
+        "SelectCheese":"//input[@id='93411-select_cheese_10__pizza-cream_cheese_and_mozarella']",
+        "AddToCart":"//button[normalize-space()='Add to basket']",
+        "SelectQuantity":"//input[@id='quantity_6669a6286b5e8']",
+        "ViewBasket":"//div[@id='woocommerce_widget_cart-2']//a[@class='button wc-forward'][normalize-space()='View basket']",
+        "ProceedToCheckOut":"//a[normalize-space()='Proceed to checkout']"
+        
+        }
+}
